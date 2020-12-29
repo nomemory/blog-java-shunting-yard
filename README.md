@@ -1,4 +1,4 @@
-Academic implementation for the Shunting Yard Algorithm in Java
+`"Academic"` implementation for the [Shunting Yard Algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm?oldformat=true) in Java.
 
 Usage:
 
